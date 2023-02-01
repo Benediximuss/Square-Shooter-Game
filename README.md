@@ -4,12 +4,12 @@ Square Shooter game created with C++ and SFML library which is my first game att
 ![gameplay](https://raw.githubusercontent.com/Benediximuss/Square-Shooter-Game/main/media/gameplay.gif)
 
 ## How to play
-- Click on falling squares and gain points
-- Blue or orange square may spawn randomly
-- When orange square is shot one point is earned towards to Blast skill
-- When blue square is shot one point is earned towards to Freeze skill
+- Click on falling squares to gain points
+- Blue or orange squares may spawn randomly
+- When orange square is shot, one point is earned towards to Blast skill
+- When blue square is shot, one point is earned towards to Freeze skill
 - Press Q to activate Blast skill when available to blast all squares
-- Press W to activate Freeze skill when available to freeze all square for a few seconds
+- Press W to activate Freeze skill when available to freeze all squares for a few seconds
 - Game overs if player's health goes zero
 
 ## Download
